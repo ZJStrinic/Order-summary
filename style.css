@@ -48,6 +48,7 @@ body {
 .container .order h1 {
     display: flex;
     justify-content: center;
+    margin-top: 1.5rem;
     margin-bottom: 1rem;
     font-weight: 900;
 }
@@ -55,6 +56,7 @@ body {
 .container .text p {
     font-weight: 500;
     margin-bottom: 2rem;
+    opacity: 0.6;
 }
 
 .container ul {
